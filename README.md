@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://your-image-url-here.png] alt="Student Exam Performance Tracker Logo" width="200">
+  <img src="[https://your-image-url-here.png]" alt="Student Exam Performance Tracker Logo" width="200">
 </div>
 
 # Student Exam Performance Tracker
@@ -43,14 +43,10 @@ Sample performance record table:
 
 Contributions are warmly welcome! Should you encounter issues or have insightful suggestions, please open an issue or submit a pull request.
 
-## License 📜
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact 📬
 
-For any inquiries, please don't hesitate to reach out: [your@email.com](mailto:your@email.com).
+For any inquiries, please don't hesitate to reach out: [akomolafeayoyinka@gmail.com](mailto:akomolafeayoyinka@gmail.com).
 
 <div align="center">
-  Connect with me on <a href="https://www.linkedin.com/in/yourname">LinkedIn</a>.
+  Connect with me on <a href="https://www.linkedin.com/in/burinious">LinkedIn</a>.
 </div>
