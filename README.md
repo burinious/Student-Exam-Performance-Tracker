@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://your-image-url-here.png](https://www.canva.com/design/DAFrnUkq_tw/G94XoxlqULbgH2Ja6nJOTQ/edit?utm_content=DAFrnUkq_tw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" alt="Student Exam Performance Tracker Logo" width="200">
+  <img src="[https://your-image-url-here.png] alt="Student Exam Performance Tracker Logo" width="200">
 </div>
 
 # Student Exam Performance Tracker
