@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/burinious/Student-Exam-Performance-Tracker/blob/main/banner.png?raw=true" alt="Student Exam Performance Tracker Logo" width="200">
+  <img src="https://github.com/burinious/Student-Exam-Performance-Tracker/blob/main/banner.png?raw=true" alt="Student Exam Performance Tracker Logo" width="500">
 </div>
 
 # Student Exam Performance Tracker
